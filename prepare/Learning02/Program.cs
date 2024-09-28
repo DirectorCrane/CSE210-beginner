@@ -30,6 +30,6 @@ class Program
         
         
          job1.Employment();
-         resume1.Career();
+         //resume1.Career();
     }
 }
