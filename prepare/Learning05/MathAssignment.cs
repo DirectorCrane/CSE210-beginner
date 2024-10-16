@@ -32,7 +32,7 @@ public class MathAssignment : Assignment
 
     public string GetHomeworkList()
     {
-        return $"Section: {_textBookSection} Problem: {_problem}";
+        return $"Section:- {_textBookSection} Problem:- {_problem}";
     }
 
 

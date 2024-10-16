@@ -35,7 +35,7 @@ public class Assignment
 
     public string GetSummeryInfo()
     {
-        return $"{_studentName} - {_topic}";
+        return $"{_studentName} ___ {_topic}";
     }
 }
 

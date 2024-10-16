@@ -5,15 +5,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine(" World!");
-        Console.WriteLine("Take me ome!");
+        
 
         Assignment assignment1 = new Assignment();
         assignment1.SetStudentName("Precious Kapusha");
         assignment1.SetTopic("Math");
        
        MathAssignment assignment2 = new MathAssignment();
-        assignment2.SetStudentName("Fire Fox");
+        assignment2.SetStudentName("James Hilton");
         assignment2.SetTopic("Pure Math");
         assignment2.SetTextBookSection(300);
         assignment2.SetProblem("8-15");
